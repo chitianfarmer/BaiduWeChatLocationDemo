@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Anim_style" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+
+    <style name="AnimFade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+
+
+    <style name="text_black_16">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_black_14">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_black_18">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="text_black_12">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_black_trasp_14">
+        <item name="android:textColor">@color/black_transp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_black_trasp_16">
+        <item name="android:textColor">@color/black_transp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_black_trasp_18">
+        <item name="android:textColor">@color/black_transp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="text_black_trasp_12">
+        <item name="android:textColor">@color/black_transp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_black_28">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="text_gray_16">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_white_gray_14">
+        <item name="android:textColor">@color/light_grey</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_red_16">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_red_14">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_red_12">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_blue_14">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_blue_16">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_blue_18">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="text_white_16">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_white_14">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_white_12">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_white_28">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="text_white_18">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="text_red_28">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="text_gray_14">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="text_gray_12">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_weight_gray_14">
+        <item name="android:textColor">@color/color_a0a0a0</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_weight_gray_16">
+        <item name="android:textColor">@color/color_a0a0a0</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text_weight_gray_18">
+        <item name="android:textColor">@color/color_a0a0a0</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="text_weight_gray_12">
+        <item name="android:textColor">@color/color_a0a0a0</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_blue_12">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+    <style name="horizontal_slide" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style>
+
+    <style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style>
+
+    <style name="progress_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaiduWeChatLocationDemo</string>
+    <string name="Network_error">网络出错</string>
+    <string name="Making_sure_your_location">正在定位...</string>
+    <string name="please_check">key 验证出错! 请在 AndroidManifest.xml 文件中检查 key 设置</string>
+    <string name="unable_to_get_loaction">无法获取到您的位置信息!</string>
+    <string name="now_address">[当前位置]</string>
+    <string name="nothing_to_search">未搜索到相关信息</string>
+    <string name="search">搜索</string>
+    <string name="bt_back">返回</string>
+    <string name="button_send">发送</string>
+    <string name="location_message">位置信息</string>
+    <string name="locationing">正在确定你的位置...</string>
+    <string name="are_doing">正在处理...</string>
+    <string name="has_no_map">您尚未安装该地图软件,请下载后再开启导航!</string>
+    <string name="location_failed">定位失败</string>
+    <string name="bd_map">百度地图</string>
+    <string name="gd_map">高德地图</string>
+    <string name="gg_map">谷歌地图</string>
+    <string name="tc_map">腾讯地图</string>
+    <string name="cancle">取消</string>
+    <string name="navigation">导航</string>
+    <string name="open_bd">打开百度地图</string>
+    <string name="permission_error">该功能需要定位权限,请打开定位权限后再尝试</string>
+    <string name="permission_need">请先获取定位,才能开启导航</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:layout_alignParentTop="true"
+    android:background="@color/common_top_bar">
+
+    <TextView
+        android:id="@+id/iv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:drawableLeft="@mipmap/bt_icon_back"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:onClick="back"
+        android:paddingLeft="10dp"
+        android:scaleType="centerInside"
+        android:text="@string/bt_back"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:maxLength="20"
+        android:maxLines="1"
+        android:text="@string/app_name"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/btn_rtc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="3dp"
+        android:background="@android:color/transparent"
+        android:ellipsize="end"
+        android:maxLength="20"
+        android:maxLines="1"
+        android:padding="13dp"
+        android:text="@string/search"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/iv_camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:padding="13dp" />
+</RelativeLayout>
