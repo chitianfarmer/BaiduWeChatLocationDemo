@@ -8,17 +8,17 @@
 
 - 主页面
 
- ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocationmain.png)
+ ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/blob/master/screens/baidumaplocationmain.png)
 
  - 百度地图定位及搜索页面
 
- ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocation1.png)
- ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocation2.png)
+ ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/blob/master/screens/baidumaplocation1.png)
+ ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/blob/master/screens/baidumaplocation2.png)
 
  - 百度地图展示发送的位置并调用外部地图app导航的页面
 
- ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumapnavigation1.png)
- ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumapnavigation2.png)
+ ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/blob/master/screens/baidumapnavigation1.png)
+ ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/blob/master/screens/baidumapnavigation2.png)
 
 
 
