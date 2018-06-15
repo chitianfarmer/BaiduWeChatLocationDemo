@@ -197,10 +197,10 @@ public class BaiduMapNativeActivity extends BaseActivity implements View.OnClick
                         MapUtils.openGDMap(BaiduMapNativeActivity.this, activityLat, activityLng, address);
                         break;
                     case 2:
-                        MapUtils.openGoogleMap(BaiduMapNativeActivity.this, fromLat, fromLng, activityLat, activityLng);
+                        MapUtils.openTencentMap(BaiduMapNativeActivity.this, fromAddress, fromLat, fromLng, activityLat, activityLng, address);
                         break;
                     case 3:
-                        MapUtils.openTencentMap(BaiduMapNativeActivity.this, fromAddress, fromLat, fromLng, activityLat, activityLng, address);
+                        MapUtils.openGoogleMap(BaiduMapNativeActivity.this, fromLat, fromLng, activityLat, activityLng);
                         break;
                     case 4:
 
