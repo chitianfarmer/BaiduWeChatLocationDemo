@@ -10,7 +10,7 @@
 
  ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocationmain.png)
 
- - 百度地图页面
+ - 百度地图定位及搜索页面
 
  ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocation1.png)
  ![image](https://github.com/LijieSong/BaiduWeChatLocationDemo/screens/baidumaplocation2.png)
