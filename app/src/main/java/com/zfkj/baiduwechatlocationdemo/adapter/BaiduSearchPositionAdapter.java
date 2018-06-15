@@ -23,7 +23,6 @@ public class BaiduSearchPositionAdapter extends RecyclerView.Adapter<BaiduSearch
     private Context context;
     private List<LocationBean> datas = new ArrayList<>();
     private OnItemClickListener clickListener;
-
     /**
      * 选中的item下标
      */
