@@ -1,0 +1,2 @@
+# BaiduWeChatLocationDemo
+百度地图仿微信发送位置及点击位置调用外部地图导航的实现
